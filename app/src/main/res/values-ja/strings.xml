@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora XP - Professional Edition -</string>
+    <string name="cero">零</string>
+    <string name="uno">一</string>
+    <string name="dos">二</string>
+    <string name="tres">三</string>
+    <string name="cuatro">四</string>
+    <string name="cinco">五</string>
+    <string name="seis">六</string>
+    <string name="siete">七</string>
+    <string name="ocho">八</string>
+    <string name="nueve">九</string>
+    <string name="punto">．</string>
+    <string name="igual">＝</string>
+    <string name="mas">✛</string>
+    <string name="menos">－</string>
+    <string name="multi">＊</string>
+    <string name="divi">／</string>
+    <string name="button">バッタん</string>
+    <string name="borrar">←</string>
+    <string name="MemTot">ＭＲ</string>
+    <string name="MenClr">ＭＣ</string>
+    <string name="MemMen">Ｍ－</string>
+    <string name="MemMas">Ｍ✛</string>
+    <string name="PlusMinus">✛／－</string>
+    <string name="CE">ＣＥ</string>
+    <string name="C">Ｃ</string>
+</resources>
